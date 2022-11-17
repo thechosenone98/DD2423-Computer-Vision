@@ -3,8 +3,8 @@ This course is given at KTH Royal Institute of Technology and the content of tis
 
 # Content
 ## Lab 1
-* [Lab 1](lab1/README.md)
+* [Lab 1](lab1/)
 ## Lab 2
-* [Lab 2](lab2/README.md)
+* [Lab 2](lab2/)
 ## Lab 3
-* [Lab 3](lab3/README.md)
+* [Lab 3](lab3/)
