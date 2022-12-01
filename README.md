@@ -28,3 +28,4 @@ python lab1/lab1.py
 * [Lab 2](lab2/)
 ## Lab 3
 * [Lab 3](lab3/)
+
